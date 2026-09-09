@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# ୨ৎ About Me:
 
 I'm a developer with experience mainly <br>in frontend. At the moment I am working on my graduation<br>course learning multiplatform software development <br>in the public são paulo's technology college (FATEC) 
 
 
-## 🌐 Socials:
+## ☆ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelly-lara-562732433/)
 
 # 💻 Tech Stack:
