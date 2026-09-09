@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # ୨ৎ About Me:
 
 
-I'm a developer with experience mainly <br>in frontend. I completed high school integrated with a Technical Course in Analysis and system development. At the moment I am working on my graduation<br>course learning multiplatform software development <br>in the public são paulo's technology college (FATEC) 
+I'm a developer with experience mainly <br>in frontend. I completed high school integrated with <br> a Technical Course in Analysis and system development. At the moment I am working on my graduation<br>course learning multiplatform software development <br>in the public são paulo's technology college (FATEC) 
 
 
 ## ☆ Socials:
